@@ -1,4 +1,17 @@
-openlighting
-============
+TODO
+----
 
-A stack which provides easy access to entertainment lighting equipment. This package provides nodes for rendering images to DMX controlled light displays with support for pixel mapping. In addition there are drivers for common DMX moving lights and a simple animation frame for composing light shows.
+ * pixel mapper
+  * image subscriber
+  * DmxValue publisher
+  * pixel map builder
+  * pixel layout visualizer
+  * render sprite
+   * attach to tf frame
+   * programatic parameters
+
+
+ * moving light
+  * tf publish support
+  * interactive marker controller
+  * follow tf frame
